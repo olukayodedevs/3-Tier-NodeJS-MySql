@@ -164,6 +164,14 @@ After following the setup instructions, you can access the application by naviga
 - **Edit User:** Click the "Edit" button next to a user entry to update their details.
 - **Delete User:** Click the "Delete" button next to a user entry to remove them from the list.
 
+### Editing From The Mysql Backend
+
+![User Management From Backend](./client/src/mysql.png)
+*This screenshot shows how a new user can be added from he backend without having to use the GUI.*\
+
+![User Management](./client/src/screenshot1.png)
+*The interface for User Management, shows the result after a user was added directly from the MYSQL backend.*
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

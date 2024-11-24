@@ -3,6 +3,9 @@
 
 This is a full-stack application for managing users with a front-end built using HTML, CSS, and JavaScript, and a back-end powered by Node.js, Express, and MySQL.
 
+![User Management](./client\src\screenshot.png)
+*The interface for User Management, it can also be added and modified directly at the MYSQL backend.*
+
 ## Table of Contents
 
 - [Features](#features)
